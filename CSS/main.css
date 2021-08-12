@@ -1,0 +1,11 @@
+body {
+    background-image: url(images/f1_redbull_racecar.jpg);
+    background-size: 100%;
+    
+}
+
+form {
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+}
